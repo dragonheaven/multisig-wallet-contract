@@ -1,0 +1,17 @@
+{
+    "signers": [
+        {
+            "address": "",
+            "pkey": ""
+        },
+        {
+            "address": "",
+            "pkey": ""
+        },
+        {
+            "address": "",
+            "pkey": ""
+        }
+    ],
+    "threshold": 2
+}
